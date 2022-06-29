@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashiru
 - 👀 I’m interested in blockchain engineering
-- 🌱 I’m currently learning low level blockchain logics
-- 💞️ I’m looking to collaborate on any low level engineering blockchain projects
+- 🌱 I’m currently learning low-level blockchain logics
+- 💞️ I’m looking to collaborate on any low-level engineering project on blockchain.
 - 📫 How to reach me ?
     - ✉️ leo.fasano@nested.finance
     - 🐦 [@lgebor](https://twitter.com/lgebor)
