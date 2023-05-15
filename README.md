@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning low-level blockchain logics
 - 💞️ I’m looking to collaborate on any MEV engineering project on blockchain.
 - 📫 How to reach me ?
-    - ✉️ leo.fasano@nested.fi
     - 🐦 [@lgebor](https://twitter.com/lgebor)
 
 <!---
