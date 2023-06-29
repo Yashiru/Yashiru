@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashiru
-- 👀 I’m interested in blockchain engineering
-- 🌱 I’m currently learning low-level blockchain logics
-- 💞️ I’m looking to collaborate on any MEV engineering project on blockchain.
+- 👀 I’m interested in EVM low-level engineering
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on any Rust educative project.
 - 📫 How to reach me ?
     - 🐦 [@lgebor](https://twitter.com/lgebor)
 
