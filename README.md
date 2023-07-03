@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yashiru&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashiru&theme=transparent&hide_border=true)
 
 - 👋 Hi, I’m @Yashiru
 - 👀 I’m interested in EVM low-level engineering
