@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any Rust educative project.
 - 📫 How to reach me ?
-    - 🐦 [@lgebor](https://twitter.com/lgebor)
+    - 📧 [fasanol.info@gmail.com](mailto:fasanol.info@gmail.com)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yashiru&theme=transparent&hide_border=true)
