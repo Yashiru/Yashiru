@@ -6,5 +6,12 @@
     "strongColor": "#000ac2",
     "weakColor": "#1d28f2",
     "radarColor": "#4f58ff",
-    "growingAnimation": true
-  }
+    "growingAnimation": true,
+    "contribColors": [
+        "#ff0000",
+        "#00ff00",
+        "#0000ff",
+        "#000000",
+        "#aaaaaa"
+    ]
+}
