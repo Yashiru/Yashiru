@@ -3,15 +3,15 @@
     "fileName": "profile-custom-evergreen.svg",
     "backgroundColor": "rgba(0, 0, 0, 0)",
     "foregroundColor": "#00000f",
-    "strongColor": "#000ac2",
-    "weakColor": "#1d28f2",
-    "radarColor": "#4f58ff",
+    "strongColor": "#DB4BE0",
+    "weakColor": "#570d7e",
+    "radarColor": "#75269e",
     "growingAnimation": true,
     "contribColors": [
-        "#ff0000",
-        "#00ff00",
-        "#0000ff",
-        "#000000",
-        "#aaaaaa"
+        "#cd99e8",
+        "#aa6acc",
+        "#8c42b3",
+        "#75269e",
+        "#570d7e"
     ]
 }
