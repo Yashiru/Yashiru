@@ -23,5 +23,5 @@
 <br>
 <br>
 <div align="center">
-    <img src="profile-3d-contrib/profile.svg">
+    <img src="./profile-3d-contrib/profile.svg">
 </div>
