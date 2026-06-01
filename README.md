@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashiru
-- 🔧 Systems engineer: EVM low-level engineering, compiler design, VM internals, Rust
+- 🔧 Systems engineer: low-level engineering, compiler design, VM internals, Rust
 - 🚀 Transitioning into **ML systems & inference engineering**: how models *run* fast and cheap, not just how they train
 - 🌱 Currently growing into GPU programming (CUDA / Triton), PyTorch internals, and LLM inference (vLLM / SGLang)
 - 💞️ I’m looking to collaborate on Rust, low-level performance, or ML inference projects
