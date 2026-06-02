@@ -8,7 +8,7 @@
     - 📓 Learning in public: [systems-engineer-to-ml-systems-transition](https://github.com/Yashiru/systems-engineer-to-ml-systems-transition)
 <br>
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=Yashiru&theme=dark&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&fire=E9A84E&ring=D98B2B&currStreakLabel=F1C27D&sideNums=D9A066&background=FFFFFF00&sideLabels=8FA36C&border=5C4632&currStreakNum=F5C989&stroke=4A3A2A&dates=A7B58A">
+    <img src="https://streak-stats.demolab.com/?user=Yashiru&theme=dark&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&fire=FFB347&ring=FF8C42&currStreakLabel=FFD166&sideNums=FFA552&background=FFFFFF00&sideLabels=7ED957&border=5A3725&currStreakNum=FFE08A&stroke=7A4A2B&dates=9FE870">
 <div>
 <br>
 
