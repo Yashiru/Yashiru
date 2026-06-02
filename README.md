@@ -16,10 +16,10 @@
 <!-- Currently learning — ML systems stack -->
 <!-- NOTE: add the matching image files in ./assets/ (python.png, pytorch.png, cuda.png, triton.png) or these will appear broken -->
 <div align="center">
+    <a href="https://triton-lang.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/triton.png" height="40px"></a>
+    <a href="https://developer.nvidia.com/cuda-zone"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/cuda.png" height="40px"></a>
     <a href="https://www.python.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/python.png" height="40px"></a>
     <a href="https://pytorch.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/pytorch.png" height="40px"></a>
-    <a href="https://developer.nvidia.com/cuda-zone"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/cuda.png" height="40px"></a>
-    <a href="https://triton-lang.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/triton.png" height="40px"></a>
 </div>
 <!-- Core background -->
 <div align="center">
