@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Rust, low-level performance, or ML inference projects
 - 📫 How to reach me ?
     - 📧 [fasanol.info@gmail.com](mailto:fasanol.info@gmail.com)
-    - 📓 Learning in public: [systems-engineer-to-ml-systems-transition](https://github.com/Yashiru/systems-engineer-to-ml-systems-transition)
+    - 📓 Learning in public: [systems-engineer-to-ml-systems-transition](https://github.com/Yashiru/system-engineer-to-ml-systems-transition)
 <br>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=Yashiru&theme=dark&hide_border=true&border_radius=20&cache_seconds=86400&date_format=M%20j%5B%2C%20Y%5D&fire=FFB347&ring=FF8C42&currStreakLabel=FFD166&sideNums=FFA552&background=FFFFFF00&sideLabels=7ED957&border=5A3725&currStreakNum=FFE08A&stroke=7A4A2B&dates=9FE870">
