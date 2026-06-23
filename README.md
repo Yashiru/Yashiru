@@ -20,14 +20,14 @@
     <a href="https://developer.nvidia.com/cuda-zone"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/cuda.png" height="40px"></a>
     <a href="https://www.python.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/python.png" height="40px"></a>
     <a href="https://pytorch.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/pytorch.png" height="40px"></a>
+    <a href="https://docs.jax.dev/en/latest/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/jax.png" height="40px"></a>
 </div>
 <!-- Core background -->
 <div align="center">
-    <a href="https://github.com/huff-language/huff-rs"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/huff.png" height="40px"></a>
     <a href="https://www.rust-lang.org/fr"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/rust.png" height="40px"></a>
-    <a href="https://book.getfoundry.sh/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/foundry.png" height="40px"></a>
     <a href="https://www.purescript.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/purescript.png" height="40px"></a>
-    <a href="https://www.typescriptlang.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/ts.png" height="40px"></a>
+    <a href="https://github.com/huff-language/huff-rs"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/huff.png" height="40px"></a>
+    <a href="https://book.getfoundry.sh/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/foundry.png" height="40px"></a>
 </div>
 <!-- 
 <br>
