@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yashiru
-- 🔧 Systems engineer: low-level engineering, compiler design, VM internals, Rust
-- 🚀 Transitioning into **ML systems & inference engineering**: how models *run* fast and cheap, not just how they train
-- 🌱 Currently growing into GPU programming (CUDA / Triton), PyTorch internals, and LLM inference (vLLM / SGLang)
+- 🔧 ML performance engineer: from compilers, VM internals & Rust to making models *run* fast and cheap
+- ⚡ Working with GPU programming (CUDA / Triton), PyTorch internals, and LLM inference (vLLM / SGLang)
 - 💞️ I’m looking to collaborate on Rust, low-level performance, or ML inference projects
 - 📫 How to reach me ?
     - 📧 [fasanol.info@gmail.com](mailto:fasanol.info@gmail.com)
