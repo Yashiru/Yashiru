@@ -18,7 +18,7 @@
     <a href="https://developer.nvidia.com/cuda-zone"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/cuda.png" height="40px"></a>
     <a href="https://www.python.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/python.png" height="40px"></a>
     <a href="https://pytorch.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/pytorch.png" height="40px"></a>
-    <a href="https://docs.jax.dev/en/latest/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/jax.png" height="40px"></a>
+    <a href="https://burn.dev/docs/burn/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/burn.png" height="40px"></a>
 </div>
 <!-- Core background -->
 <div align="center">
