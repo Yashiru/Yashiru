@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashiru
-- 🔧 ML performance engineer: low-level systems (Rust, C++, CUDA, Triton) for fast and cheap model inference
+- 🔧 ML performance engineer: low-level systems (Rust, C++, CUDA, Triton) for fast and cheap model training and inference
 - ⚡ Working with GPU programming (CUDA / Triton), PyTorch and Burn internals, and LLM inference (vLLM / SGLang)
 - 💞️ I’m looking to collaborate on Rust, low-level performance, or ML inference projects
 - 📫 How to reach me ?
