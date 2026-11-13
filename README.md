@@ -17,6 +17,8 @@
     <a href="https://www.python.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/python.png" height="40px"></a>
     <a href="https://www.typescriptlang.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/ts.png" height="40px"></a>
     <a href="https://www.rust-lang.org/fr"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/rust.png" height="40px"></a>
+    <a href="https://www.postgresql.org/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/postgres.png" height="40px"></a>
+    <a href="https://redis.io/lp/get-started3/"><img style="margin: 5px; box-shadow: 0 0 5px #222222; border-radius: 8px;" src="./assets/redis.png" height="40px"></a>
 </div>
 <!-- Low-level background -->
 <div align="center">
